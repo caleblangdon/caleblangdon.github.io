@@ -3,8 +3,7 @@
 # This config file is meant for settings that affect your entire site, values
 # which you are expected to set up once and rarely need to edit after that.
 # For technical reasons, this file is *NOT* reloaded automatically when you use
-# `jekyll serve -l -H localhost`. If you change this file, please restart the 
-# server process.
+# `jekyll serve -l -H localhost`. If you change this file, please restart the server process.
 
 # Theme Settings
 #
@@ -12,8 +11,8 @@
 # https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/#installing-the-theme
 
 # theme                  : "minimal-mistakes-jekyll"
-# remote_theme           : "mmistakes/minimal-mistakes"
-minimal_mistakes_skin    : "unc" # "air", "aqua", "contrast", "dark", "default", "dirt", "neon", "mint", "plum", "sunris
+# remote_theme           : "mmistakes/minimal-mistakes@4.26.2"
+# minimal_mistakes_skin    : "unc" # "air", "aqua", "contrast", "dark", "default", "dirt", "neon", "mint", "plum", "sunris
 
 # Basic Site Settings
 locale                   : "en-US"
@@ -31,33 +30,33 @@ repository               : "clangdon-UNC/clangdon-UNC.github.io"
 author:
   # Biographic information
   avatar           : "studying.png"
-  name             : "Your Sidebar Name"
-  pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  name             : "Caleb M. Langdon"
+  pronouns         : "He/him" # example: "she/her"  
+  bio              : "PhD Student of Economics"
+  location         : "Chapel Hill, NC"
+  employer         : "University of North Carolina"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "clangdon@unc.edu" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
+  googlescholar    : # "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
   impactstory      : # URL
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : # "http://orcid.org/yourorcidurl"
   semantic         : # URL
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   researchgate     : # URL
 
   # Repositories and software development
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : "academicpages"
+  github           : # "clangdon-UNC"
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
   # Social media
-  bluesky          : "bsky.app" # Replace this with you Bluesky username
+  bluesky          : # Replace this with you Bluesky username
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username
@@ -66,7 +65,7 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : # Username
+  linkedin         : "caleb-langdon" # Username
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username

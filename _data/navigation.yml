@@ -5,23 +5,29 @@
 # prevent it from being included in the site.
 
 main:
-  - title: "Publications"
-    url: /publications/
-
-  - title: "Talks"
-    url: /talks/    
+  - # title: "Research"
+    # url: /research/ 
 
   - title: "Teaching"
     url: /teaching/    
     
-  - title: "Portfolio"
-    url: /portfolio/
-        
-  - title: "Blog Posts"
-    url: /year-archive/
-    
-  - title: "CV"
-    url: /cv/
-    
-  - title: "Guide"
-    url: /markdown/
+  - # title: "CV"
+    # url: /cv/
+
+  - # title: "Personal"
+    # url: /personal/
+
+
+## --- Side bar navagation
+
+# side bar for teaching page
+sidebar-teaching:
+  - title: "Teaching Assistant"
+    url: "/teaching/#teaching-assistant"
+    children:
+      - title: "ECON 400"
+        url: "/teaching/#econ-400"
+      - title: "ECON 410"
+        url: "/teaching/#econ-410"
+      - title: "ECON 411"
+        url: "/teaching/#econ-411"

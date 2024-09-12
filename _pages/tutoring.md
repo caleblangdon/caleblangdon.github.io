@@ -1,6 +1,6 @@
 ---
 permalink: /tutoring/
-title: "Caleb Langdon's Website"
+title: "Tutoring"
 author_profile: true
 ---
 

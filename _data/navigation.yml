@@ -28,12 +28,19 @@ main:
 
 # side bar for teaching page
 sidebar-teaching:
+  # - title: "Instructor"
+  #   url: "/teaching/#instructor"
+  #   children:
+  #     - title: "ECON 101: Introduction to Economics"
+  #       url: "/teaching/#econ-101"
   - title: "Teaching Assistant"
     url: "/teaching/#teaching-assistant"
     children:
-      - title: "ECON 400: Econometrics"
-        url: "/teaching/#econ-400"
+      - title: "ECON 721: Macroeconomic Theory II, Ph.D. Core"
+        url: "/teaching/#econ-721"
       - title: "ECON 410: Intermediate Microeconomics"
         url: "/teaching/#econ-410"
       - title: "ECON 411: Game Theory"
         url: "/teaching/#econ-411"
+      - title: "ECON 400: Econometrics"
+        url: "/teaching/#econ-400"

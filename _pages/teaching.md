@@ -30,7 +30,7 @@ sidebar:
   
   <!-- First Quote -->
   <div class="quote__minipage">
-    <center style="margin-bottom: 0.25em;"> <a href="http://caleblangdon.io/files/ECON410-607_Fall2024_Evals.pdf" class="btn btn--primary btn--half">Fall 2024</a></center>
+    <center style="margin-bottom: 0.25em;"> <a href="http://caleblangdon.github.io/files/ECON410-607_Fall2024_Evals.pdf" class="btn btn--primary btn--half">Fall 2024</a></center>
     <center><strong> Overall Mean: 4.33/5 </strong> </center>
     <blockquote>
     	"Caleb is the best TA I have ever had. He clearly has a very firm grasp on subject material and is able to uniquely explain it in a way that actually makes sense. Overall, I would give him a 10/10."

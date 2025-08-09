@@ -16,6 +16,30 @@ sidebar:
 ## ECON 101: Introduction to Economics {#econ-101}
 **Semesters Taught**: Summer 2025
 
+<details>
+<summary><strong>Student Evaluations</strong></summary>
+<div class="quote__container">
+  
+  <!-- First Quote -->
+  <div class="quote__minipage">
+    <center style="margin-bottom: 0.25em;"> <a href="/files/ECON101-001_Summer2025_Evals.pdf" class="btn btn--primary btn--half">Summer 2025</a></center>
+    <center><strong> Overall Mean: 4.52/5 </strong> </center>
+    <blockquote>
+    	"[Caleb] explained things in great detail when lecturing and was great in office hours."
+  
+    <cite> Summer 2025 Student</cite>
+    </blockquote>
+
+    <blockquote>
+    	"[Caleb] had well organized and structured lectures that gave plenty of examples that demonstrated the topics that were covered that day."
+  
+    <cite> Summer 2025 Student</cite>
+    </blockquote>
+    
+  </div>
+</div>
+</details>
+
 <h1 id="teaching-assistant" style="text-align:center;">Teaching Assistant</h1> 
 
 ## ECON 721: Macroeconomic Theory II, Ph.D. Core {#econ-721}

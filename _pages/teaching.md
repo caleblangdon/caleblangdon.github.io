@@ -64,13 +64,13 @@ sidebar:
 </details>
 
 ## ECON 410: Intermediate Microeconomics {#econ-410}
- **Semesters Taught**: Fall 2024
+ **Semesters Taught**: Fall 2024, Fall 2025
 
 <details>
 <summary><strong>Student Evaluations</strong></summary>
+
+<!-- First Semester -->
 <div class="quote__container">
-  
-  <!-- First Quote -->
   <div class="quote__minipage">
     <center style="margin-bottom: 0.25em;"> <a href="/files/ECON410-607_Fall2024_Evals.pdf" class="btn btn--primary btn--half">Fall 2024</a></center>
     <center><strong> Overall Mean: 4.33/5 </strong> </center>
@@ -85,7 +85,25 @@ sidebar:
   
     <cite> Fall 2024 Student</cite>
     </blockquote>
+  </div>
+</div>
+
+<!-- Second Semester -->
+<div class="quote__container">
+  <div class="quote__minipage">
+    <center style="margin-bottom: 0.25em;"> <a href="/files/ECON410-609_Fall2025_Evals.pdf" class="btn btn--primary btn--half">Fall 2025</a></center>
+    <center><strong> Overall Mean: 4.33/5 </strong> </center>
+    <blockquote>
+    	"He was extremely patient, took questions thoughtfully, and was excellent at explaining material. He made sure that everyone understood the problems we worked through, and was overall a very passionate, comprehensive, and kind instructor."
+  
+    <cite> Fall 2025 Student</cite>
+    </blockquote>
     
+    <blockquote>
+    	"Caleb has created the epitome of what an Economics recitation should be."
+  
+    <cite> Fall 2025 Student</cite>
+    </blockquote>
   </div>
 </div>
 </details>

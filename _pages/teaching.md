@@ -14,13 +14,14 @@ sidebar:
  <h1 id="instructor" style="text-align:center;">Instructor</h1> 
 
 ## ECON 101: Introduction to Economics {#econ-101}
-**Semesters Taught**: Summer 2025
+**Semesters Taught**: Summer 2025, Summer 2026
 
 <details>
 <summary><strong>Student Evaluations</strong></summary>
+
+<!-- First Semester -->
 <div class="quote__container">
   
-  <!-- First Quote -->
   <div class="quote__minipage">
     <center style="margin-bottom: 0.25em;"> <a href="/files/ECON101-001_Summer2025_Evals.pdf" class="btn btn--primary btn--half">Summer 2025</a></center>
     <center><strong> Overall Mean: 4.52/5 </strong> </center>
@@ -38,6 +39,27 @@ sidebar:
     
   </div>
 </div>
+
+<!-- Second Semester -->
+<div class="quote__container">
+  
+  <div class="quote__minipage">
+    <center style="margin-bottom: 0.25em;"> <a href="/files/ECON101-001_Summer2026_Evals.pdf" class="btn btn--primary btn--half">Summer 2026</a></center>
+    <center><strong> Overall Mean: 4.77/5 </strong> </center>
+    <blockquote>
+    	"I loved his energy and passion for teaching."
+  
+    <cite> Summer 2026 Student</cite>
+    </blockquote>
+
+    <blockquote>
+    	"[Caleb] was one of the best professors I have had at UNC."
+  
+    <cite> Summer 2026 Student</cite>
+    </blockquote>
+    
+  </div>
+</div>
 </details>
 
 <h1 id="teaching-assistant" style="text-align:center;">Teaching Assistant</h1> 
@@ -47,9 +69,10 @@ sidebar:
 
 <details>
 <summary><strong>Student Evaluations</strong></summary>
+
+<!-- First Semester -->
 <div class="quote__container">
   
-  <!-- First Quote -->
   <div class="quote__minipage">
     <center style="margin-bottom: 0.25em;"> <a href="/files/ECON721-601_Spring2025_Evals.pdf" class="btn btn--primary btn--half">Spring 2025</a></center>
     <center><strong> Overall Mean: 4.75/5 </strong> </center>
